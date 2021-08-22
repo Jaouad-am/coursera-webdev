@@ -1,0 +1,19 @@
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.container h2 {
+  margin-bottom: 5%;
+}
+.section {
+  border: 1px solid gray;
+  background-color: goldenrod;
+}
+.collapse ul {
+  background-color: rgb(255, 208, 0);
+}
+@media (max-width: 767px) {
+    .container {
+      padding-right: 40px; 
+      padding-left: 40px;
+    }
